@@ -3,6 +3,7 @@
 ###
 
 <p align="left">✨ I enjoy learning new things<br>🎯 I want to be a software engineer and CEO of my own business.</p>
+<p align="left"> 📚 I'm currently studying systems engineering</p>
 
 ###
 
