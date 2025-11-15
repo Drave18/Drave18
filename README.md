@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <em>“Learning every day, building my path step by step.”</em>
+  <em>“Money can't fill the hole that a lack of purpose creates -Joel Testa”</em>
 </p>
