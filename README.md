@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm <strong>David</strong></h1>
+<h1 align="center">David Mejia</strong></h1>
 
 <p align="center">
   ✨ Passionate about creating, building, and constantly learning.<br>
